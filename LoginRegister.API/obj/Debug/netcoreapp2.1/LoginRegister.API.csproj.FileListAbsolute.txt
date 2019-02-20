@@ -1,0 +1,14 @@
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\bin\Debug\netcoreapp2.1\LoginRegister.API.deps.json
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\bin\Debug\netcoreapp2.1\LoginRegister.API.runtimeconfig.json
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\bin\Debug\netcoreapp2.1\LoginRegister.API.runtimeconfig.dev.json
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\bin\Debug\netcoreapp2.1\LoginRegister.API.dll
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.csprojAssemblyReference.cache
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.csproj.CoreCompileInputs.cache
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.RazorAssemblyInfo.cache
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.RazorAssemblyInfo.cs
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.AssemblyInfoInputs.cache
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.AssemblyInfo.cs
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.RazorTargetAssemblyInfo.cache
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\bin\Debug\netcoreapp2.1\LoginRegister.API.pdb
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.dll
+C:\Users\ufdemir\source\repos\LoginRegister\LoginRegister.API\obj\Debug\netcoreapp2.1\LoginRegister.API.pdb
